@@ -1,0 +1,23 @@
+<package>
+	<id>com.jasimmohd.wunderwidget</id>
+	<name>Wunderwidget</name>
+	<version>0.0.0-1</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>9.3.3</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Wunderwidget - A Wunderlist widget for your lockscreen</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
